@@ -1,5 +1,5 @@
-visual-mark-ring-mode
-=====================
+visual-mark-ring-mode, v0.1
+===========================
 
 An Emacs minor-mode to display the locations of markers on the mark-ring.
 
@@ -10,7 +10,7 @@ the buffer, as soon as the user initiates the first jump by typing
 
   C-u C-SPC
 
-![Screenshot of visual-mark-ring-mode](visual-mark-ring-mode.png "Screenshot")
+![Screenshot of visual-mark-ring-mode](https://raw.github.com/kleiba/visual-mark-ring-mode/master/visual-mark-ring-mode.png "Screenshot")
 
 How to use
 ----------
